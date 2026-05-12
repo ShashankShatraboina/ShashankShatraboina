@@ -1,24 +1,3 @@
-## Hi there 👋
-
-<!--
-**ShashankShatraboina/ShashankShatraboina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-![header](h.jpg)
-
 ## Hey there 👋 
 
 ### About Me 🤟
@@ -31,8 +10,8 @@ Here are some ideas to get you started:
 - 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
 
 ### Contact Me 📫
-- E-Mail   : shruti.tyagi@somaiya.edu / tyagishruti4102@gmail.com
-- Linkedin : [tyagishruti](https://www.linkedin.com/in/tyagishruti/)
+- E-Mail   : shashankshatraboina@gmail.com 
+- Linkedin : [tyagishruti](https://www.linkedin.com/in/shashankshatraboina/)
 
 ### Technologies 👩🏻‍💻
 
