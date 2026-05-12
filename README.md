@@ -2,10 +2,9 @@
 
 - 👩‍💻 I am a Gruated Btech in CS Student at CMR Engineering College
 - 💙 I enjoy everything about technology and love learning and researching about any technology related topic ! 
-- 🌱 I’m currently learning Data Science, Artifical Inteligence and Machine Learning
-- 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning project
+- 🌱 I’m Machine Learning and Deep Learning researcher seeking opportunities for collaboration.
+- 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning projects
 - 💬 Brainstorm with me over Tech, Data Science and Career
-- 💫 Apart from Coding, I also enjoy traveling, learning new things online, social media marketing, event management, listening to music, watching movies and trying out new cuisines.
 
 ### Contact Me 📫
 - E-Mail   : shashankshatraboina@gmail.com 
