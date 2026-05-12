@@ -46,8 +46,6 @@
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=flat-square&logo=gnu-emacs&logoColor=white)
-![](	https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 
 <!-- ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102&layout=compact)](https://github.com/shrutityagi4102/github-readme-stats) -->
