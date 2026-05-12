@@ -1,4 +1,7 @@
-## Hey there 👋 
+<p align="center">
+  <img src="./header.png" alt="Shashank Header" width="100%" />
+</p>
+
 
 ### About Me 🤟
 
