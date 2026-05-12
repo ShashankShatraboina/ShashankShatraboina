@@ -46,18 +46,4 @@
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-<!-- Code Time (optional - needs WakaTime) -->
-![Code Time](https://img.shields.io/badge/Code%20Time-XXX%20hrs-blue)
-
-<!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal)
 
