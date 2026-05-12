@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./IMMGG.png" alt="Shashank Header" width="100%" />
+  <img src="./IMMGG.png" alt="Shashank Header" width="50%" />
 </p>
 
 
