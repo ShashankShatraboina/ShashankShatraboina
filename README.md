@@ -46,90 +46,18 @@
 ![](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 
-<!-- ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutityagi4102&layout=compact)](https://github.com/shrutityagi4102/github-readme-stats) -->
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-518%20hrs%2012%20mins-blue) -->
-<!-- ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue) --> 
-<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--827%20Thousand%20lines%20of%20code-blue) -->
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
 
-<!-- [![Shruti's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal)](https://activity-graph.herokuapp.com/graph?username=shrutityagi4102&theme=minimal) -->
+<!-- GitHub Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-<h1 align="center">Hi 👋, I'm Shashank Shatraboina</h1>
-<h3 align="center">Computer Science Student</h3>
+<!-- Code Time (optional - needs WakaTime) -->
+![Code Time](https://img.shields.io/badge/Code%20Time-XXX%20hrs-blue)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankshatraboina&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankshatraboina&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankshatraboina&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88" alt="Top Languages" width="40%" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankshatraboina&theme=react-dark&bg_color=0d1117&hide_border=true&point=00ff88&line=00ff88&color=ffffff" alt="Activity Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shashankshatraboina&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/shashankshatraboina">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shashankshatraboina">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shashank.shatraboina@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shashankshatraboina&color=00ff88&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Code%20Time-0%20hrs-blue?style=flat-square" alt="Code Time" />
-</p>
-
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
-</p>
-
-
+<!-- Activity Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal)
 
