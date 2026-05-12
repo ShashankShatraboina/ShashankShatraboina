@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Screenshot 2026-05-12 161440.png" alt="Shashank Header" width="50%" />
+  <img src="./Screenshot 2026-05-12 161440.png" alt="Shashank Header" width="100%" />
 </p>
 
 
