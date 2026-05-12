@@ -11,7 +11,7 @@
 
 ### Contact Me 📫
 - E-Mail   : shashankshatraboina@gmail.com 
-- Linkedin : [tyagishruti](https://www.linkedin.com/in/shashankshatraboina/)
+- Linkedin : [shashankshatraboina](https://www.linkedin.com/in/shashankshatraboina/)
 
 ### Technologies 👩🏻‍💻
 
