@@ -1,6 +1,6 @@
 ### About Me 🤟
 
-- 👩‍💻 I am a B.Tech graduate in Computer Science from CMR Engineering College.
+- 👩‍💻 I am a B.Tech graduate in Computer Science (2026) from CMR Engineering College.
 - 💙 I enjoy everything about technology and love learning and researching about any technology related topic ! 
 - 🌱 I’m Machine Learning and Deep Learning researcher seeking opportunities for collaboration.
 - 👯‍♀️ I'm looking to collaborate on any Open-source,Python,Data Science,Artifical Inteligence or Machine learning projects
